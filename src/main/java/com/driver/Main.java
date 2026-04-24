@@ -28,14 +28,3 @@ System.out.println("Product of 2 numbers: " + result1);
 
 
 
-
-
-
-
-
-
-
-
-
-
-}
